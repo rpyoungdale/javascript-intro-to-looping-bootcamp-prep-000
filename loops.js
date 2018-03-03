@@ -8,14 +8,15 @@ function forLoop(array) {
   }
   return array;
 }
-function whileLoop(n, argument) {
+function whileLoop(n) {
   while(n>0){
     console.log(--n);
   }
   return "done";
 }
-function doWhileLoop(array, argument) {
-  function maybeTrue() {
+function doWhileLoop(array) {
+  do {
+    
+  } while function maybeTrue() {
   return Math.random() >= 0.5;
-}
-}
+     }
