@@ -14,3 +14,6 @@ function whileLoop(n, argument) {
   }
   return "done";
 }
+function doWhileLoop(array, argument) {
+  
+}
